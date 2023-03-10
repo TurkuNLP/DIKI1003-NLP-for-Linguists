@@ -1,14 +1,14 @@
 # DIKI1003-NLP-for-Linguists
 
-Kurssin kuvaus
+### Kurssin kuvaus
 Kurssi koostuu opetusmateriaaleista, viikoittaisista tehtävistä ja tentistä. Lisäksi keskustelemalla tehtävistä Githubin keskustelualueella välilehdellä "Discussions" voi saada lisäpisteitä 3 pistettä / viikko, eli yhteensä 24 pistettä.
 
 Kurssi on Turun yliopiston kurssitoteutus Tuomo Hiippalan (HY) MOOC-kurssista. Joissain ohjeissa voidaan siis virheellisesti viitata MOOC-kurssiin. Näistä ei tarvitse välittää.
 
-Kurssin oppimismateriaalit
+### Kurssin oppimismateriaalit
 Opetusmateriaalit löytyvät osoitteesta https://applied-language-technology.mooc.fi/html/index.html. Osat I ja II kuuluvat edelliseen kurssiin, osa III tähän kurssiin.
 
-Kurssin tehtävät
+### Kurssin tehtävät
 Tehtävät löytyvät CSC Notebooks alustalta, osoitteessa https://notebooks.rahtiapp.fi/. Kurssille pääsee liittymään kirjautumalla HAKA (eli UTU) -tunnuksilla palveluun, ja kirjoittamalla koodin dik-vozfxsbq kohtaan ”Join workspace”. Tällöin kurssin pitäisi näkyä valikossasi, ja pääset tehtäviin klikkaamalla aloitusikonia oikeassa reunassa.
 
 HUOM! Kurssin alusta on sama kuin edellisen kurssin "Working with Text in Python". Muutin kurssin nimeksi kuitenkin "DIKI1002/1003 Working with Text in Python / NLP for Linguists".
@@ -25,10 +25,10 @@ CSC Notebooksin ja TMC:n käyttöön voi tutustua myös tällä videolla: https:
 
 HUOM: tmc test testaa tehtävät lokaalisti sinua itseäsi varten. Ainoastaan komento tmc submit palauttaa ne, joten muista tehdä tämä submittaus!
 
-Kurssin suorittaminen
+### Kurssin suorittaminen
 Kurssi suoritetaan tekemällä viikoittaiset tehtävät ja lopuksi tentti, joka tehdään samalla alustalla. Lisäksi on suositeltavaa keskustella tehtävistä Githubin keskustelupalstalla.
 
-Kurssin kulku
+### Kurssin kulku
 Tehtävien deadline on maanantaisin klo 23.59. Ensimmäisten tehtävien dl on kuitenkin vasta keskiviikkona 22.3, jotta aikaa jää riittävästi. Tehtävät palautetaan CSC-Notebooks-alustalla tmc submit-komennolla, ks. "Kurssin tehtävät".
 
 Tehtävien palautus määräajan jälkeen on mahdollista, mutta maksimipistemäärä on tällöin vain 75% maksimista. Viikon 6 harjoitukset on kuitenkin pakko palauttaa 24.4.2023 mennessä, ja tentti on pakko suorittaa viimeistään 5.5.2023.
