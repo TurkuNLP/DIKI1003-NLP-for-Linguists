@@ -9,7 +9,7 @@ Kurssi on Turun yliopiston kurssitoteutus Tuomo Hiippalan (HY) MOOC-kurssista. J
 Opetusmateriaalit löytyvät osoitteesta https://applied-language-technology.mooc.fi/html/index.html. Osat I ja II kuuluvat edelliseen kurssiin, osa III tähän kurssiin.
 
 ### Kurssin tehtävät
-Tehtävät löytyvät CSC Notebooks alustalta, osoitteessa https://notebooks.rahtiapp.fi/. Kurssille pääsee liittymään kirjautumalla HAKA (eli UTU) -tunnuksilla palveluun, ja kirjoittamalla koodin dik-vozfxsbq kohtaan ”Join workspace”. Tällöin kurssin pitäisi näkyä valikossasi, ja pääset tehtäviin klikkaamalla aloitusikonia oikeassa reunassa.
+Tehtävät löytyvät CSC Notebooks alustalta, osoitteessa https://notebooks.rahtiapp.fi/. Kurssille pääsee liittymään kirjautumalla HAKA (eli UTU) -tunnuksilla palveluun, ja kirjoittamalla koodin dik-l31w8jxw kohtaan ”Join workspace”. Tällöin kurssin pitäisi näkyä valikossasi, ja pääset tehtäviin klikkaamalla aloitusikonia oikeassa reunassa.
 
 HUOM! Kurssin alusta on sama kuin edellisen kurssin "Working with Text in Python". Muutin kurssin nimeksi kuitenkin "DIKI1002/1003 Working with Text in Python / NLP for Linguists".
 
