@@ -71,6 +71,7 @@ Tehtävät voi ensin tarkistaa (tmc test), ja kun olet tyytyväinen arvosanaasi,
 * Zoom-päivystys pe 21.4 klo 12.00-13.00 https://utu.zoom.us/j/64798833407
 * Kaikkien tehtävien dl ma 24.4 klo 23.59, ei myöhempää palautusta!
 * Kaikkien tehtävien oikeat vastaukset saatavilla ti 25.4
+* EDIT 25.4: Oikeat vastaukset saatavilla: https://drive.google.com/drive/folders/1pBsdPhquxaWPv_dKWMXpDrCZhghQAstK?usp=sharing
 
 #### Viikko 7 - Tentti
 * part_07-final_exam
