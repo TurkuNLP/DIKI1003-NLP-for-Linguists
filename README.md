@@ -1,85 +1,100 @@
 # DIKI1003-NLP-for-Linguists
 
-### Kurssin kuvaus
-Kurssi koostuu opetusmateriaaleista, viikoittaisista tehtävistä ja tentistä. Lisäksi keskustelemalla tehtävistä Githubin keskustelualueella välilehdellä "Discussions" voi saada lisäpisteitä 3 pistettä / viikko, eli yhteensä 24 pistettä.
+### Course description
 
-Kurssi on Turun yliopiston kurssitoteutus Tuomo Hiippalan (HY) MOOC-kurssista. Joissain ohjeissa voidaan siis virheellisesti viitata MOOC-kurssiin. Näistä ei tarvitse välittää.
+The course is based on weekly teaching materials and exercises as well as an exam at the end of the course.
 
-### Kurssin oppimismateriaalit
-Opetusmateriaalit löytyvät osoitteesta https://applied-language-technology.mooc.fi/html/index.html. Osat I ja II kuuluvat edelliseen kurssiin, osa III tähän kurssiin.
+The course is a modified version of the MOOC by Tuomo Hiippala (Uni Helsinki). Some instructions may mention the MOOC - nevermind those.
 
-### Kurssin tehtävät
-Tehtävät löytyvät CSC Notebooks alustalta, osoitteessa https://notebooks.rahtiapp.fi/. Kurssille pääsee liittymään kirjautumalla HAKA (eli UTU) -tunnuksilla palveluun, ja kirjoittamalla koodin dik-l31w8jxw kohtaan ”Join workspace”. Tällöin kurssin pitäisi näkyä valikossasi, ja pääset tehtäviin klikkaamalla aloitusikonia oikeassa reunassa.
+### Passing the course
 
-HUOM! Kurssin alusta on sama kuin edellisen kurssin "Working with Text in Python". Muutin kurssin nimeksi kuitenkin "DIKI1002/1003 Working with Text in Python / NLP for Linguists".
+The course consists of the weekly exercises, discussion on the discussion forum, and the exam (also done on CSC Notebooks). To do the exam, you need to have submitted all the weekly exercises.
 
-Sivulla https://applied-language-technology.mooc.fi/html/getting_started.html on hyvät ohjeet Notebooksin käytöstä.
+Please note that the deadline for submitting the exercises is on Mondays at 23.59, excluding the first week, when the dl is on Wednesday to leave sufficient time to do the exercises. You need to get at least 20% of the points to get to the next exercise. Submitting the exercises late is possible for an extra week, but you can only get 75% of the points if the submission is late.
 
-CSC-Notebooks-ympäristössä näkyy heti kurssin materiaalit hakemistoissa "notebooks" ruudun vasemmassa reunassa. III-osio on tämä kurssi.
+The evaluation is based on the weekly exercises, the exam with extra points from participating actively in the forum discussions.
 
-Tehtävät tulevant Notebooks-ympäristöön Test My Code -alustan kautta. Tätä varten tarvitset tunnukset myös TMC-alustalle, ne voi hakea osoitteessa https://tmc.mooc.fi/.
+### Teaching materials
 
-Tehtävät ladataan Notebooks-ympäristöön erikseen terminaalin kautta komennolla tmc download - valitse organisaatioksi Turun yliopisto ja kurssiksi tämä kurssi. Tällöin vasempaan hakemistoon ilmestyy myös hakemisto "ty-utu-nlp-for-linguists". Täältä löytyy tehtävät. Myös niiden tarkistus tapahtuu automaattisesti Test My Code -alustan kautta.
+The teaching materials are found at  https://applied-language-technology.mooc.fi/html/index.html. Parts I and II belong to the previous course, part III to this one.
 
-CSC Notebooksin ja TMC:n käyttöön voi tutustua myös tällä videolla: https://drive.google.com/file/d/1NPuDcmd7ds1O2N3gknQaLkbgSFh-Agx9/view?usp=sharing.
+### Course environment
 
-HUOM: tmc test testaa tehtävät lokaalisti sinua itseäsi varten. Ainoastaan komento tmc submit palauttaa ne, joten muista tehdä tämä submittaus!
+The course happens on the platform CSC Notebooks, available at https://notebooks.rahtiapp.fi/.
 
-### Kurssin suorittaminen
-Kurssi suoritetaan tekemällä viikoittaiset tehtävät ja lopuksi tentti, joka tehdään samalla alustalla. Lisäksi on suositeltavaa keskustella tehtävistä Githubin keskustelupalstalla.
+To get to the** course environment,** please do the following steps:
 
-### Kurssin kulku
-Tehtävien deadline on maanantaisin klo 23.59. Ensimmäisten tehtävien dl on kuitenkin vasta keskiviikkona 22.3, jotta aikaa jää riittävästi. Tehtävät palautetaan CSC-Notebooks-alustalla tmc submit-komennolla, ks. "Kurssin tehtävät".
+1) Log in to the notebooks by signing in using your HAKA (that is UTU) -credentials
+2) Find the correct course environment by writing the code dik-l31w8jxw to ”Join workspace”. After these two steps, you should see the course "DIKI1002/1003 Course Environment" in your "My workspaces".
+3) Click on the starting icon on the right side of the course name box. This starts a session on the course server.
+4) Once you have started a session, the course materials are listed under the directory "notebooks" on the left side of the screen.
+5) Detailed instructions on how to use Notebooks can be found here: https://applied-language-technology.mooc.fi/html/getting_started.html
 
-Tehtävien palautus määräajan jälkeen on mahdollista, mutta maksimipistemäärä on tällöin vain 75% maksimista. Viikon 6 harjoitukset on kuitenkin pakko palauttaa 24.4.2023 mennessä, ja tentti on pakko suorittaa viimeistään 5.5.2023.
+The exercises come to the Notebooks environment using the platform Test My Code. First, you need to create credentials to TMC at https://tmc.mooc.fi/.
 
-Tehtävien oikeat ratkaisut tulevat Githubiin viikon 6 harjoituksien deadlinen jälkeen. Seitsemäs viikkotehtävä on tentti.
+Detailed instructions on how to use TMC can be found here: https://applied-language-technology.mooc.fi/html/tmc.html. Please read those.
 
-Lisäksi pidän kurssin tehtäviin liittyvän päivystysajan monena perjantaina klo 12.00-13.00 Zoomissa: https://utu.zoom.us/j/64798833407 Tänne voi tulla kysymään tehtävistä ja saamaan apua, jos keskustelupalsta ei tuota tulosta, ja joku asia askarruttaa! Valitettavasti monet kevään perjantait olen varattu. Jos viikon päivystystä ei ole, laita viestiä, ja sovitaan tapaamisaika!
+A short video on how to log into CSC Notebooks and use TMC can be found here: https://drive.google.com/file/d/1NPuDcmd7ds1O2N3gknQaLkbgSFh-Agx9/view?usp=sharing (Finnish)
 
-Tehtävät voi ensin tarkistaa (tmc test), ja kun olet tyytyväinen arvosanaasi, lähettää virallisesti arvioitaviksi (tmc submit). Ohjeet tälle löytyvät osoitteesta https://applied-language-technology.mooc.fi/html/getting_started.html, ks. myös yllä linkattu video!
+### Exercises
+
+The steps to copy the exercises are:
+
+1) Type the command tmc login on the terminal command line and press enter
+2) Give your username and password (the password you type does not show, but it is still registered)
+3) If the login is successful, TMC will prompt you to select an organization. Please select "ty-utu-nlp-for-linguists"-
+4) Download the exercises by typing tmc download (and enter)
+
+Now, the exercise notebooks should show in the menu on left.
+
+### Submitting the exercises
+
+Once you have done the exercise of the week, you can test how many points you get, and when happy with the result, submit your exercise. The testing is done with the command tmc test, and submission with tmc submit. 
+
+N.B.! the command tmc test evaluates your exercises locally, for you. Only the command tmc submit submits them to the course platform, where I can see them. Remember to submit!
+
+### Course schedule
+
+The correct solutions are shown here on Github after the deadline.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Viikko 1
+#### Week 1
 * part_01-stanza_basics
-* Zoom-päivystys pyydettäessä, laita Veronikalle viestiä!
-* Tehtävien dl ke 22.3 klo 23.59
+* Exercise dl Wed 20.3 23.59
+* Correct answers Thu 27.3
 
-#### Viikko 2
+#### Week 2
 * part_02-universal_dependencies
-* Zoom-päivystys pe 24.3 klo 12.00-13.00 https://utu.zoom.us/j/64798833407
-* Tehtävien dl ma 27.3 klo 23.59
+* Exercise dl Mon 25.3 23.59
+* Correct answers Tue 2.4
 
-#### Viikko 3
+#### Week 3
 * part_03-pattern_matching
-* Zoom-päivystys pyydettäessä, laita Veronikalle viestiä!
-* Tehtävien dl ma 3.4 klo 23.59
+* Exercise dl Wed 3.4 23.59
+* Correct answers Thu 11.4
 
-#### Viikko 4
+#### Week 4
 * part_04-distributional_hypothesis
-* Zoom-päivystys pyydettäessä, laita Veronikalle viestiä!
-* Tehtävien dl ma 10.4 klo 23.59
+* Exercise dl Mon 8.4 23.59
+* Correct answers Tue 16.4
 
-#### Viikko 5
+#### Week 5
 * part_05-word_embeddings
-* Zoom-päivystys pe 14.4 klo 12.00-13.00 https://utu.zoom.us/j/64798833407
-* Tehtävien dl ma 17.4 klo 23.59
+* Exercise dl Mon 15.4 23.59
+* Correct answers Tue 23.4
 
-#### Viikko 6
+#### Week 6
 * part_06-discourse
-* Zoom-päivystys pe 21.4 klo 12.00-13.00 https://utu.zoom.us/j/64798833407
-* Kaikkien tehtävien dl ma 24.4 klo 23.59, ei myöhempää palautusta!
-* Kaikkien tehtävien oikeat vastaukset saatavilla ti 25.4
-* EDIT 25.4: Oikeat vastaukset saatavilla: https://drive.google.com/drive/folders/1pBsdPhquxaWPv_dKWMXpDrCZhghQAstK?usp=sharing
+* Exercise dl Mon 22.4 23.59
+* Correct answers Tue 30.4
 
-#### Viikko 7 - Tentti
+#### Week 7 - Exam
 * part_07-final_exam
-* Avoinna 5.5. saakka
+* Open until 15.5
 
 #### Viikko 8 - Grade my work
 * part_08-grade_my_work
-* Kun olet tehnyt tentin ja haluat, että arvioin kurssin, tee tämä!
-* Tämän jälkeen merkkaan suorituksen Peppiin!
-* Avoinnna 5.5. saakka
+* Do this when you are happy with the exam result, so I know to add your grade to Peppi!
+* Open until 15.5
 
