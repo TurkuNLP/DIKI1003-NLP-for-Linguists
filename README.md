@@ -10,13 +10,19 @@ The course is a modified version of the MOOC by Tuomo Hiippala (Uni Helsinki). S
 
 The course consists of the weekly exercises, discussion on the discussion forum, and the exam (also done on CSC Notebooks). To do the exam, you need to have submitted all the weekly exercises.
 
-Please note that the deadline for submitting the exercises is on Mondays at 23.59, excluding the first week, when the dl is on Wednesday to leave sufficient time to do the exercises. You need to get at least 20% of the points to get to the next exercise. Submitting the exercises late is possible for an extra week, but you can only get 75% of the points if the submission is late.
+Please note that the deadline for submitting the exercises is normally on Mondays at 23.59. However, exceptions include the first week and Easter Monday, when the dl is on Wednesday. You need to get at least 20% of the points to get to the next exercise. Submitting the exercises late is possible for an extra week, but you can only get 75% of the points if the submission is late.
 
 The evaluation is based on the weekly exercises, the exam with extra points from participating actively in the forum discussions.
 
 ### Teaching materials
 
 The teaching materials are found at  https://applied-language-technology.mooc.fi/html/index.html. Parts I and II belong to the previous course, part III to this one.
+
+### Interaction with other students and teacher
+
+I strongly encourage discussing the exercises on the course discussion forum, available on the course Github page (link above). Very often, people face very similar challenges! You can also get extra points by actively participating - either with questions, answers or comments!
+
+If you need more assistance than the discussion forum can offer you, you can contact the course teacher (veronika.laippala@utu.fi) by email. Office hours can be arranged if needed, but please use the discussion forum as your first option for help!
 
 ### Course environment
 
