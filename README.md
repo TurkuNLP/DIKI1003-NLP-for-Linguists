@@ -68,7 +68,7 @@ The correct solutions are shown here on Github after the deadline.
 #### Week 1
 * part_01-stanza_basics
 * Exercise dl Wed 20.3 23.59
-* Correct answers Thu 27.3
+* Correct answers: https://drive.google.com/file/d/1rGjlI7Orn_Pbqu8Lh-iwoPSKiwIdhXTN/view?usp=sharing
 
 #### Week 2
 * part_02-universal_dependencies
