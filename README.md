@@ -73,7 +73,7 @@ The correct solutions are shown here on Github after the deadline.
 #### Week 2
 * part_02-universal_dependencies
 * Exercise dl Mon 25.3 23.59
-* Correct answers Tue 2.4
+* Correct answers: https://drive.google.com/file/d/1W9ejsHVYcX_BsQgpvkXlB_9k5w-7bOMa/view?usp=sharing 
 
 #### Week 3
 * part_03-pattern_matching
