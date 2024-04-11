@@ -78,7 +78,7 @@ The correct solutions are shown here on Github after the deadline.
 #### Week 3
 * part_03-pattern_matching
 * Exercise dl Wed 3.4 23.59
-* Correct answers Thu 11.4
+* Correct answers: https://drive.google.com/file/d/10R8oxGlkA8l1BbOE4xP6JXjhLLJUWWGg/view?usp=sharing
 
 #### Week 4
 * part_04-distributional_hypothesis
