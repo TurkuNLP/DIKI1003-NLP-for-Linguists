@@ -83,7 +83,7 @@ The correct solutions are shown here on Github after the deadline.
 #### Week 4
 * part_04-distributional_hypothesis
 * Exercise dl Mon 8.4 23.59
-* Correct answers Tue 16.4
+* Correct answers: https://drive.google.com/file/d/1D3vSR6alZQB5TpIqop0mXYKJJF27Ux1s/view?usp=sharing
 
 #### Week 5
 * part_05-word_embeddings
