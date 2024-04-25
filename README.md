@@ -88,7 +88,7 @@ The correct solutions are shown here on Github after the deadline.
 #### Week 5
 * part_05-word_embeddings
 * Exercise dl Mon 15.4 23.59
-* Correct answers Tue 23.4
+* Correct answers: https://drive.google.com/file/d/1fVZLcNItA15wKK4h8MEMMKF6Q_FsQgGY/view?usp=sharing
 
 #### Week 6
 * part_06-discourse
