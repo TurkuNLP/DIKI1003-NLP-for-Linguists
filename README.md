@@ -93,7 +93,7 @@ The correct solutions are shown here on Github after the deadline.
 #### Week 6
 * part_06-discourse
 * Exercise dl Mon 22.4 23.59
-* Correct answers Tue 30.4
+* Correct answers: https://drive.google.com/file/d/1R62eKaokiew8EPakTbtLXklZJ1CMqSTl/view?usp=sharing
 
 #### Week 7 - Exam
 * part_07-final_exam
