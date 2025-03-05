@@ -34,7 +34,8 @@ To get to the** course environment,** please do the following steps:
 2) Find the correct course environment by writing the code dik-itvyxi98 to ”Join workspace”. After these two steps, you should see the course "DIKI1002/1003 Course Environment - 2025 version" in your "My workspaces".
 3) Click on the starting icon on the right side of the course name box. This starts a session on the course server.
 4) Once you have started a session, the course materials are listed under the directory "notebooks" on the left side of the screen.
-5) Detailed instructions on how to use Notebooks can be found here: https://applied-language-technology.mooc.fi/html/getting_started.html
+5) In order to download the course exercises and eventually submit them, see the instructions below under "Exercises"
+6) Detailed instructions on how to use Notebooks can be found here: https://applied-language-technology.mooc.fi/html/getting_started.html
 
 The exercises come to the Notebooks environment using the platform Test My Code. First, you need to create credentials to TMC at https://tmc.mooc.fi/.
 
