@@ -1,4 +1,4 @@
-# DIKI1003-NLP-for-Linguists
+# DIKI1003-NLP-for-Humanities
 
 ### Course description
 
