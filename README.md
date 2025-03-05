@@ -34,23 +34,24 @@ To get to the** course environment,** please do the following steps:
 2) Find the correct course environment by writing the code dik-itvyxi98 to ”Join workspace”. After these two steps, you should see the course "DIKI1002/1003 Course Environment - 2025 version" in your "My workspaces".
 3) Click on the starting icon on the right side of the course name box. This starts a session on the course server.
 4) Once you have started a session, the course materials are listed under the directory "notebooks" on the left side of the screen.
-5) In order to download the course exercises and eventually submit them, see the instructions below under "Exercises"
 6) Detailed instructions on how to use Notebooks can be found here: https://applied-language-technology.mooc.fi/html/getting_started.html
 
-The exercises come to the Notebooks environment using the platform Test My Code. First, you need to create credentials to TMC at https://tmc.mooc.fi/.
+### Exercises
+
+**The exercises come to the Notebooks environment using the platform Test My Code. **
+
+First, you need to create credentials to TMC at https://tmc.mooc.fi/.
 
 Detailed instructions on how to use TMC can be found here: https://applied-language-technology.mooc.fi/html/tmc.html. Please read those.
 
 A short video on how to log into CSC Notebooks and use TMC can be found here: https://drive.google.com/file/d/1NPuDcmd7ds1O2N3gknQaLkbgSFh-Agx9/view?usp=sharing (Finnish)
 
-### Exercises
-
 The steps to copy the exercises are:
 
 1) Type the command tmc login on the terminal command line and press enter
 2) Give your username and password (the password you type does not show, but it is still registered)
-3) If the login is successful, TMC will prompt you to select an organization. Please select "ty-utu-nlp-for-linguists"-
-4) Download the exercises by typing tmc download (and enter)
+3) If the login is successful, TMC will prompt you to select an organization. Please select "Turun yliopisto". 
+4) Download the exercises by typing tmc download (and enter). Please select "ty-utu-nlp-for-linguists". (This is the old name of the course.)
 
 Now, the exercise notebooks should show in the menu on left.
 
@@ -68,40 +69,46 @@ The correct solutions are shown here on Github after the deadline.
 
 #### Week 1
 * part_01-stanza_basics
-* Exercise dl Wed 20.3 23.59
-* Correct answers: https://drive.google.com/file/d/1rGjlI7Orn_Pbqu8Lh-iwoPSKiwIdhXTN/view?usp=sharing
+* Office hours Mon 24.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
+* Exercise dl Wed 26.3 23.59
+* Correct answers: 
 
 #### Week 2
 * part_02-universal_dependencies
-* Exercise dl Mon 25.3 23.59
-* Correct answers: https://drive.google.com/file/d/1W9ejsHVYcX_BsQgpvkXlB_9k5w-7bOMa/view?usp=sharing 
+* Office hours Mon 31.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
+* Exercise dl Wed 2.4 23.59
+* Correct answers: 
 
 #### Week 3
 * part_03-pattern_matching
-* Exercise dl Wed 3.4 23.59
-* Correct answers: https://drive.google.com/file/d/10R8oxGlkA8l1BbOE4xP6JXjhLLJUWWGg/view?usp=sharing
+* Office hours Mon 7.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
+* Exercise dl Wed 9.4 23.59
+* Correct answers: 
 
 #### Week 4
 * part_04-distributional_hypothesis
-* Exercise dl Mon 8.4 23.59
-* Correct answers: https://drive.google.com/file/d/1D3vSR6alZQB5TpIqop0mXYKJJF27Ux1s/view?usp=sharing
+* Office hours Mon 14.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
+* Exercise dl Wed 16.4 23.59
+* Correct answers:
 
 #### Week 5
 * part_05-word_embeddings
-* Exercise dl Mon 15.4 23.59
-* Correct answers: https://drive.google.com/file/d/1fVZLcNItA15wKK4h8MEMMKF6Q_FsQgGY/view?usp=sharing
-
+* No office hours because of Easter
+* Exercise dl Wed 23.4 23.59
+* Correct answers:
+  
 #### Week 6
 * part_06-discourse
-* Exercise dl Mon 22.4 23.59
-* Correct answers: https://drive.google.com/file/d/1R62eKaokiew8EPakTbtLXklZJ1CMqSTl/view?usp=sharing
+* Office hours Mon 28.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
+* Exercise dl Wed 30.4 23.59
+* Correct answers:
 
 #### Week 7 - Exam
 * part_07-final_exam
-* Open until 15.5
+* Open until 21.5
 
 #### Viikko 8 - Grade my work
 * part_08-grade_my_work
 * Do this when you are happy with the exam result, so I know to add your grade to Peppi!
-* Open until 15.5
+* Open until 21.5
 
