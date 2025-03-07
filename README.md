@@ -9,10 +9,12 @@ The course is a modified version of the MOOC by Tuomo Hiippala (Uni Helsinki). S
 ### Passing the course
 
 The course consists of the weekly exercises, discussion on the discussion forum, and the exam (also done on CSC Notebooks). To do the exam, you need to have submitted all the weekly exercises.
+The evaluation is based on the weekly exercises and the exam with extra points from participating actively in the forum discussions.
 
-Please note that the deadline for submitting the exercises is normally on Mondays at 23.59. However, exceptions include the first week and Easter Monday, when the dl is on Wednesday. You need to get at least 20% of the points to get to the next exercise. Submitting the exercises late is possible for an extra week, but you can only get 75% of the points if the submission is late.
-
-The evaluation is based on the weekly exercises, the exam with extra points from participating actively in the forum discussions.
+### Course Schedule
+- The deadline for submitting the exercises is on Wednesdays at 23.59.
+- Submitting the exercises late is possible until the next week's Monday, but you can only get 75% of the points if the submission is late.
+- You need to get 20% of the weekly points to be able to move forward in the exercises
 
 ### Teaching materials
 
@@ -71,36 +73,42 @@ The correct solutions are shown here on Github after the deadline.
 * part_01-stanza_basics
 * Office hours Mon 24.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
 * Exercise dl Wed 26.3 23.59
+* Submission possible with less points until Mon 31.3 23.59
 * Correct answers: 
 
 #### Week 2
 * part_02-universal_dependencies
 * Office hours Mon 31.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
 * Exercise dl Wed 2.4 23.59
+* Submission possible with less points until Mon 7.4 23.59
 * Correct answers: 
 
 #### Week 3
 * part_03-pattern_matching
 * Office hours Mon 7.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
 * Exercise dl Wed 9.4 23.59
+* Submission possible with less points until Mon 14.4 23.59
 * Correct answers: 
 
 #### Week 4
 * part_04-distributional_hypothesis
 * Office hours Mon 14.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
 * Exercise dl Wed 16.4 23.59
+* Submission possible with less points until Mon 21.4 23.59
 * Correct answers:
 
 #### Week 5
 * part_05-word_embeddings
 * No office hours because of Easter
 * Exercise dl Wed 23.4 23.59
+* Submission possible with less points until Mon 28.4 23.59
 * Correct answers:
   
 #### Week 6
 * part_06-discourse
-* Office hours Mon 28.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
+* Office hours Mon 28.4 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
 * Exercise dl Wed 30.4 23.59
+* Submission possible with less points until Mon 5.5 23.59
 * Correct answers:
 
 #### Week 7 - Exam
