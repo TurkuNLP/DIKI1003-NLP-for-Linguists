@@ -1,5 +1,5 @@
 # DIKI1007-NLP-for-Humanities
-(Previously known as DIKI1003-NLP-for-Linguists
+(Previously known as DIKI1003-NLP-for-Linguists)
 
 ### Course description
 
