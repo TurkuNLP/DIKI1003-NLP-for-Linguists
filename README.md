@@ -75,7 +75,7 @@ The correct solutions are shown here on Github after the deadline.
 * Office hours Mon 24.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
 * Exercise dl Wed 26.3 23.59
 * Submission possible with less points until Mon 31.3 23.59
-* Correct answers: 
+* Correct answers: https://drive.google.com/file/d/1rGjlI7Orn_Pbqu8Lh-iwoPSKiwIdhXTN/view?usp=drive_link
 
 #### Week 2
 * part_02-universal_dependencies
