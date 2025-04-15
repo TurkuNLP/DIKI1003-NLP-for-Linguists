@@ -82,14 +82,14 @@ The correct solutions are shown here on Github after the deadline.
 * Office hours Mon 31.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
 * Exercise dl Wed 2.4 23.59
 * Submission possible with less points until Mon 7.4 23.59
-* Correct answers: 
+* Correct answers: https://drive.google.com/file/d/1W9ejsHVYcX_BsQgpvkXlB_9k5w-7bOMa/view?usp=drive_link
 
 #### Week 3
 * part_03-pattern_matching
 * Office hours Mon 7.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
 * Exercise dl Wed 9.4 23.59
 * Submission possible with less points until Mon 14.4 23.59
-* Correct answers: 
+* Correct answers: https://drive.google.com/file/d/10R8oxGlkA8l1BbOE4xP6JXjhLLJUWWGg/view?usp=drive_link
 
 #### Week 4
 * part_04-distributional_hypothesis
