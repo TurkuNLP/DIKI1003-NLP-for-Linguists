@@ -96,7 +96,7 @@ The correct solutions are shown here on Github after the deadline.
 * Office hours Mon 14.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
 * Exercise dl Wed 16.4 23.59
 * Submission possible with less points until Mon 21.4 23.59
-* Correct answers:
+* Correct answers: https://drive.google.com/file/d/1D3vSR6alZQB5TpIqop0mXYKJJF27Ux1s/view?usp=drive_link
 
 #### Week 5
 * part_05-word_embeddings
