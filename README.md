@@ -103,14 +103,14 @@ The correct solutions are shown here on Github after the deadline.
 * No office hours because of Easter
 * Exercise dl Wed 23.4 23.59
 * Submission possible with less points until Mon 28.4 23.59
-* Correct answers:
+* Correct answers: https://drive.google.com/file/d/1fVZLcNItA15wKK4h8MEMMKF6Q_FsQgGY/view?usp=sharing
   
 #### Week 6
 * part_06-discourse
 * Office hours Mon 28.4 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
 * Exercise dl Wed 30.4 23.59
 * Submission possible with less points until Mon 5.5 23.59
-* Correct answers:
+* Correct answers: https://drive.google.com/file/d/1R62eKaokiew8EPakTbtLXklZJ1CMqSTl/view?usp=sharing
 
 #### Week 7 - Exam
 * part_07-final_exam
