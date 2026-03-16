@@ -1,5 +1,5 @@
 # DIKI1007-NLP-for-Humanities
-(Previously known as DIKI1003-NLP-for-Linguists)
+(Previously known as DIKI1003-NLP-for-Linguists. These are the same course.)
 
 ### Course description
 
@@ -13,9 +13,10 @@ The course consists of the weekly exercises, discussion on the discussion forum,
 The evaluation is based on the weekly exercises and the exam with extra points from participating actively in the forum discussions.
 
 ### Course Schedule
-- The deadline for submitting the exercises is on Wednesdays at 23.59.
-- Submitting the exercises late is possible until the next week's Monday, but you can only get 75% of the points if the submission is late.
-- You need to get 20% of the weekly points to be able to move forward in the exercises
+You can do the exercises following your own rhythm. The exam is open until May 15.
+#- The deadline for submitting the exercises is on Wednesdays at 23.59.
+#- Submitting the exercises late is possible until the next week's Monday, but you can only get 75% of the points if the submission is late.
+#- You need to get 20% of the weekly points to be able to move forward in the exercises
 
 ### Teaching materials
 
@@ -73,9 +74,9 @@ The correct solutions are shown here on Github after the deadline.
 #### Week 1
 * part_01-stanza_basics
 * Office hours Mon 24.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
-* Exercise dl Wed 26.3 23.59
-* Submission possible with less points until Mon 31.3 23.59
-* Correct answers: https://drive.google.com/file/d/1rGjlI7Orn_Pbqu8Lh-iwoPSKiwIdhXTN/view?usp=drive_link
+#* Exercise dl Wed 26.3 23.59
+#* Submission possible with less points until Mon 31.3 23.59
+#* Correct answers: https://drive.google.com/file/d/1rGjlI7Orn_Pbqu8Lh-iwoPSKiwIdhXTN/view?usp=drive_link
 
 #### Week 2
 * part_02-universal_dependencies
