@@ -103,4 +103,3 @@ The correct solutions are shown here on Github after the deadline.
 * Open until 15.5
 
 * Open until 21.5
-
