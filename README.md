@@ -101,5 +101,3 @@ The correct solutions are shown here on Github after the deadline.
 #### Week 7 - Exam
 * part_07-final_exam
 * Open until 15.5
-
-* Open until 21.5
