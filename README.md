@@ -13,10 +13,7 @@ The course consists of the weekly exercises, discussion on the discussion forum,
 The evaluation is based on the weekly exercises and the exam with extra points from participating actively in the forum discussions.
 
 ### Course Schedule
-You can do the exercises following your own rhythm. The exam is open until May 15.
-#- The deadline for submitting the exercises is on Wednesdays at 23.59.
-#- Submitting the exercises late is possible until the next week's Monday, but you can only get 75% of the points if the submission is late.
-#- You need to get 20% of the weekly points to be able to move forward in the exercises
+You can do the exercises following your own rhythm. The exam is open until May 15, 2026.
 
 ### Teaching materials
 
@@ -73,52 +70,37 @@ The correct solutions are shown here on Github after the deadline.
 
 #### Week 1
 * part_01-stanza_basics
-* Office hours Mon 24.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
-#* Exercise dl Wed 26.3 23.59
-#* Submission possible with less points until Mon 31.3 23.59
-#* Correct answers: https://drive.google.com/file/d/1rGjlI7Orn_Pbqu8Lh-iwoPSKiwIdhXTN/view?usp=drive_link
+* Open until 15.5
+* Office hours Tue 24.3 at 8.30-9.00 at https://utu.zoom.us/j/62780466942
 
 #### Week 2
 * part_02-universal_dependencies
-* Office hours Mon 31.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
-* Exercise dl Wed 2.4 23.59
-* Submission possible with less points until Mon 7.4 23.59
-* Correct answers: https://drive.google.com/file/d/1W9ejsHVYcX_BsQgpvkXlB_9k5w-7bOMa/view?usp=drive_link
+* Open until 15.5
+* Office hours Tue 31.3 at 8.30-9.00 at https://utu.zoom.us/j/62780466942
 
 #### Week 3
 * part_03-pattern_matching
-* Office hours Mon 7.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
-* Exercise dl Wed 9.4 23.59
-* Submission possible with less points until Mon 14.4 23.59
-* Correct answers: https://drive.google.com/file/d/10R8oxGlkA8l1BbOE4xP6JXjhLLJUWWGg/view?usp=drive_link
+* Open until 15.5
+* Office hours Tue 7.4 at 8.30-9.00 at https://utu.zoom.us/j/62780466942
 
 #### Week 4
 * part_04-distributional_hypothesis
-* Office hours Mon 14.3 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
-* Exercise dl Wed 16.4 23.59
-* Submission possible with less points until Mon 21.4 23.59
-* Correct answers: https://drive.google.com/file/d/1D3vSR6alZQB5TpIqop0mXYKJJF27Ux1s/view?usp=drive_link
+* Open until 15.5
+* No office hours due to traveling - please post on discusison forum!
 
 #### Week 5
 * part_05-word_embeddings
-* No office hours because of Easter
-* Exercise dl Wed 23.4 23.59
-* Submission possible with less points until Mon 28.4 23.59
-* Correct answers: https://drive.google.com/file/d/1fVZLcNItA15wKK4h8MEMMKF6Q_FsQgGY/view?usp=sharing
+* Open until 15.5
+* No office hours due to traveling - please post on discusison forum!
   
 #### Week 6
 * part_06-discourse
-* Office hours Mon 28.4 at 10.00-10.30 at https://utu.zoom.us/j/62780466942
-* Exercise dl Wed 30.4 23.59
-* Submission possible with less points until Mon 5.5 23.59
-* Correct answers: https://drive.google.com/file/d/1R62eKaokiew8EPakTbtLXklZJ1CMqSTl/view?usp=sharing
+* Open until 15.5
+* Office hours Tue 28.4 at 8.30-9.00 at https://utu.zoom.us/j/62780466942
 
 #### Week 7 - Exam
 * part_07-final_exam
-* Open until 21.5
+* Open until 15.5
 
-#### Viikko 8 - Grade my work
-* part_08-grade_my_work
-* Do this when you are happy with the exam result, so I know to add your grade to Peppi!
 * Open until 21.5
 
